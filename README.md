@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/heavenly-stars/heavenly-stars/blob/d261b59851de421fdcf6bf593450f7d8d83b7913/75236b0b95f03fa777adc0fe46cf0e34.jpg" />
+  <img src="https://github.com/heavenly-stars/heavenly-stars/blob/ba6164041ece45e9a78e04992679402013258acf/8735b5a4b76a8a6d641394d4e4f82a2f.jpg" />
 </p>
 
